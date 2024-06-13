@@ -1,6 +1,6 @@
 # PR48
 
-Open source resin by Autodesk
+Photopolymer resin open sourced by Autodesk along with the Ember 3D printer.
 
 # Safety
 
